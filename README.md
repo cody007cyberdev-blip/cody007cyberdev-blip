@@ -1,7 +1,7 @@
 ## cody007cyberdev-blip
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/leonardofonseca" width="120" height="120" style="border-radius: 50%; border: 3px solid #1D9E75;" alt="Leonardo Fonseca" />
+<img src="https://avatars.githubusercontent.com/cody007cyberdev-blip" width="120" height="120" style="border-radius: 50%; border: 3px solid #1D9E75;" alt="Leonardo Fonseca" />
 
 > *Couldn't load photo directly from Google Drive link — replace the `src` above with a direct image URL or upload to GitHub.*
 
