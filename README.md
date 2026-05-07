@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/cody007cyberdev-blip" width="480" height="480" style="border-radius: 50%; border: 4px solid #1D9E75;" alt="Leonardo Fonseca" />
+  <img src="https://avatars.githubusercontent.com/cody007cyberdev-blip" width="280" height="280" style="border-radius: 50%; border: 4px solid #1D9E75;" alt="Leonardo Fonseca" />
   
   <h1>Leonardo Fonseca</h1>
   <h3>Computer Engineer | Backend Developer | DevOps Engineer | AI Enthusiast</h3>
