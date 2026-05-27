@@ -1,5 +1,6 @@
 # 🚀 Leonardo Fonseca | cody007cyberdev-blip
 
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/cody007cyberdev-blip/cody007cyberdev-blip/main/assets/banner.gif" width="100%" style="border-radius: 12px; margin-bottom: 20px;" alt="Cyber Engineering Banner"/>
 
