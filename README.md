@@ -1,6 +1,5 @@
 # 🚀 Leonardo Fonseca | cody007cyberdev-blip
 
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/cody007cyberdev-blip/cody007cyberdev-blip/main/assets/banner.gif" width="100%" style="border-radius: 12px; margin-bottom: 20px;" alt="Cyber Engineering Banner"/>
 
@@ -72,6 +71,12 @@ Sou um **Engenheiro de Computação** focado na construção de sistemas distrib
 | **[Lumea Studio](https://github.com/cody007cyberdev-blip/style-glow-studio)** | Consultoria estética digital com IA (Gemini) e metodologias K-Beauty. | `React`, `Supabase`, `Gemini IA` |
 | **[IDS Machine Learning](https://github.com/cody007cyberdev-blip/Sistema-de-Detec-o-de-intrus-o-IDS-com-Machine-learneing)** | Sistema de detecção de intrusão em rede usando modelos de ML em tempo real. | `Python`, `Scapy`, `Sklearn` |
 | **[SmartStock](https://github.com/cody007cyberdev-blip/SmartStock)** | Gestão de inventário inteligente com análise preditiva de stock. | `TanStack`, `TypeScript`, `Vite` |
+| **[plataformadecontrolovideo](https://github.com/cody007cyberdev-blip/plataformadecontrolovideo)** | Uma plataforma de controlo de vídeo. | `TypeScript` |
+| **[CorpNotify-SaaS---Plataforma-Multi-Tenant-de-Notifica-es-Push](https://github.com/cody007cyberdev-blip/CorpNotify-SaaS---Plataforma-Multi-Tenant-de-Notifica-es-Push)** | Uma plataforma multi-tenant de notificações push. | `TypeScript` |
+| **[dynamic-template-engine](https://github.com/cody007cyberdev-blip/dynamic-template-engine)** | Um motor de templates dinâmico para geração de relatórios. | `TypeScript` |
+| **[Funda-o-Donations](https://github.com/cody007cyberdev-blip/Funda-o-Donations)** | Plataforma de gestão de doações e campanhas de caridade. | `TypeScript` |
+| **[flowforge-neon-glow](https://github.com/cody007cyberdev-blip/flowforge-neon-glow)** | Editor de workflows visuais com estética neon-glow e assistente de IA. | `TypeScript` |
+| **[VictusUno-APP](https://github.com/cody007cyberdev-blip/VictusUno-APP)** | Uma aplicação VictusUno. | `N/A` |
 
 ---
 
