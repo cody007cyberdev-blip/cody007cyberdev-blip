@@ -19,14 +19,14 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou um **Engenheiro de Computação** focado na construção de sistemas distribuídos de alta performance e soluções de inteligência artificial aplicada. O meu objetivo é transformar problemas complexos em arquiteturas robustas, escaláveis e prontas para produção.
+Sou um **Engenheiro de Computação** focado na construção de sistemas distribuídos de alta performance e soluções de inteligência artificial aplicada. O meu objetivo é transformar problemas complexos em arquiteturas robustas, escaláveis e prontas para produção, com um foco especial no ecossistema de Cabo Verde.
 
 - 🌍 Baseado em **Cabo Verde**.
 - 🎓 Finalista em Engenharia de Computação.
 - 🚀 Especialista em **Backend Architecture**, **DevOps** e **MLOps**.
 - 💡 Apaixonado por **Clean Code**, **DDD** e **Performance Extrema**.
 
-> *"Eu não apenas escrevo código — eu projeto excelência."*
+> *"Eu não apenas escrevo código — eu projeto excelência e soluções que impulsionam negócios."*
 
 ---
 
@@ -62,21 +62,30 @@ Sou um **Engenheiro de Computação** focado na construção de sistemas distrib
 
 ---
 
-### 🌟 Projetos em Destaque
+### 🌟 Projetos em Destaque & Soluções SaaS
+
+Desenvolvo soluções inovadoras para resolver problemas reais, com um forte foco no mercado de Cabo Verde.
 
 | Projeto | Descrição | Tech Stack |
 | :--- | :--- | :--- |
 | **[AutoVision AI](https://github.com/cody007cyberdev-blip/autovision-ai)** | ERP inteligente para oficinas automóveis com relatórios financeiros avançados. | `TS`, `React`, `Node`, `MongoDB` |
+| **[SmartStock Production](https://github.com/cody007cyberdev-blip/smartstock-production)** | Plataforma profissional de gestão de estoque com IA, QR code e integração WhatsApp. | `TypeScript` |
 | **[FlowForge Enterprise](https://github.com/cody007cyberdev-blip/FlowForge)** | Orquestração de workflows empresariais e automação de processos em larga escala. | `React`, `Drizzle`, `MySQL`, `tRPC` |
 | **[Lumea Studio](https://github.com/cody007cyberdev-blip/style-glow-studio)** | Consultoria estética digital com IA (Gemini) e metodologias K-Beauty. | `React`, `Supabase`, `Gemini IA` |
-| **[IDS Machine Learning](https://github.com/cody007cyberdev-blip/Sistema-de-Detec-o-de-intrus-o-IDS-com-Machine-learneing)** | Sistema de detecção de intrusão em rede usando modelos de ML em tempo real. | `Python`, `Scapy`, `Sklearn` |
-| **[SmartStock](https://github.com/cody007cyberdev-blip/SmartStock)** | Gestão de inventário inteligente com análise preditiva de stock. | `TanStack`, `TypeScript`, `Vite` |
-| **[plataformadecontrolovideo](https://github.com/cody007cyberdev-blip/plataformadecontrolovideo)** | Uma plataforma de controlo de vídeo. | `TypeScript` |
-| **[CorpNotify-SaaS---Plataforma-Multi-Tenant-de-Notifica-es-Push](https://github.com/cody007cyberdev-blip/CorpNotify-SaaS---Plataforma-Multi-Tenant-de-Notifica-es-Push)** | Uma plataforma multi-tenant de notificações push. | `TypeScript` |
-| **[dynamic-template-engine](https://github.com/cody007cyberdev-blip/dynamic-template-engine)** | Um motor de templates dinâmico para geração de relatórios. | `TypeScript` |
-| **[Funda-o-Donations](https://github.com/cody007cyberdev-blip/Funda-o-Donations)** | Plataforma de gestão de doações e campanhas de caridade. | `TypeScript` |
-| **[flowforge-neon-glow](https://github.com/cody007cyberdev-blip/flowforge-neon-glow)** | Editor de workflows visuais com estética neon-glow e assistente de IA. | `TypeScript` |
-| **[VictusUno-APP](https://github.com/cody007cyberdev-blip/VictusUno-APP)** | Uma aplicação VictusUno. | `N/A` |
+| **[CorpNotify SaaS](https://github.com/cody007cyberdev-blip/CorpNotify-SaaS---Plataforma-Multi-Tenant-de-Notifica-es-Push)** | Plataforma multi-tenant para notificações corporativas mobile. | `TypeScript` |
+
+#### 🚀 Novas Oportunidades SaaS para Cabo Verde
+
+Recentemente, lancei uma série de repositórios focados em resolver dores específicas do mercado cabo-verdiano:
+
+*   **[GovTech de Licenciamento Municipal](https://github.com/cody007cyberdev-blip/govtech-de-licenciamento-municipal):** Plataforma white-label para digitalizar o fluxo de alvarás nas Câmaras Municipais.
+*   **[Micro-ERP "Caboverdiano" Cloud](https://github.com/cody007cyberdev-blip/micro-erp-caboverdiano-cloud):** ERP ultra-leve e mobile-first para o fluxo de caixa de microempresas locais.
+*   **[AgendaFix + Link de Pagamento](https://github.com/cody007cyberdev-blip/agendafix--plus--link-de-pagamento):** SaaS de agendamento com notificações automáticas e integração Vinti4.
+*   **[Portal de RH e Assiduidade Mobile](https://github.com/cody007cyberdev-blip/portal-de-rh-e-assiduidade-mobile):** Controlo de ponto via geolocalização e geração de folhas para o INPS.
+*   **[Conciliador Bancário Automático com Smart OCR](https://github.com/cody007cyberdev-blip/conciliador-bancrio-automtico-com-smart-ocr):** Leitura de extratos em PDF e matching automático com faturas.
+*   **[Control Tower Logística Interilhas](https://github.com/cody007cyberdev-blip/control-tower-logstica-interilhas):** Gestão de inventário multi-armazém e tracking de envios interilhas.
+*   **[CRM Omnichannel focado em WhatsApp/Social](https://github.com/cody007cyberdev-blip/crm-omnichannel-focado-em-whatsapp-social):** Funil de vendas que centraliza mensagens de WhatsApp da equipa.
+*   **[Plataforma de Auto-Auditoria e Compliance](https://github.com/cody007cyberdev-blip/plataforma-de-auto-auditoria-e-compliance):** Checklist regulatório e geração de relatórios de lacunas.
 
 ---
 
@@ -92,7 +101,7 @@ Sou um **Engenheiro de Computação** focado na construção de sistemas distrib
 
 ### 🤝 Vamos Construir Algo Incrível?
 
-Estou aberto a colaborações estratégicas e projetos desafiadores onde a tecnologia de ponta faz a diferença.
+Estou aberto a colaborações estratégicas e projetos desafiadores onde a tecnologia de ponta faz a diferença. Se procura um parceiro para transformar a sua visão em realidade, especialmente no contexto de SaaS e IA, vamos conversar!
 
 <div align="center">
   <a href="mailto:cody007.cyberdev@gmail.com">
