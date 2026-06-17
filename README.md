@@ -24,9 +24,6 @@
 
 ### 💫 About Me
 
-<div align="right">
-  <img src="https://raw.githubusercontent.com/cody007cyberdev-blip/cody007cyberdev-blip/main/fresco" width="320" alt="Coding"/>
-</div>
 
 🌟 Comecei com **Software Engineering** e **Systems Architecture**.  
 🌙 Trabalho com **Backend Architecture**, **DevOps** e **MLOps** em sistemas distribuídos de alta performance.  
@@ -101,17 +98,15 @@
       <td align="center">
         <a href="https://github.com/cody007cyberdev-blip/cody007cyberdev-blip/tree/main/Projeto4">
           <img src="https://raw.githubusercontent.com/cody007cyberdev-blip/cody007cyberdev-blip/main/Projeto4" width="220" style="border-radius: 12px;" alt="Projeto 4"/>
-        </a>
+       </a>
         <br><strong>Projeto 4</strong>
+      </td>
     </tr>
   </table>
 
 </div>
 
-<br>
-<div align="center">
-  <strong>Clique nas imagens para acessar cada projeto</strong>
-</div>
+
 
 ### ☕ Support Me
 <div align="center">
