@@ -15,9 +15,6 @@
   <a href="https://raw.githubusercontent.com/cody007cyberdev-blip/cody007cyberdev-blip/main/CV_LEO%20(1).pdf" target="_blank">
     <img src="https://img.shields.io/badge/📄_Baixar_CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV"/>
   </a>
-  <a href="https://victusuno.cv" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Ver_Portfolio-00ff9d?style=for-the-badge&logo=globe&logoColor=black" alt="Portfolio"/>
-  </a>
 </div>
 
 ---
