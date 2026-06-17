@@ -2,7 +2,7 @@
   &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=250&section=header&text=Leonardo%20Fonseca&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20%7C%20DevOps%20%7C%20MLOps%20%7C%20Cybersecurity&descAlignY=55&descSize=18" alt="header banner" /&gt;
 &lt;/p&gt;
 
-&lt;h1 align="center"&gt;Namaste 🙏 I'm Leonardo Fonseca&lt;/h1&gt;
+&lt;h1 align="center"&gt; I'm Leonardo Fonseca&lt;/h1&gt;
 
 &lt;p align="center"&gt;
   &lt;a href="https://github.com/cody007cyberdev-blip"&gt;
@@ -21,12 +21,7 @@
   &lt;a href="https://github.com/cody007cyberdev-blip/cv-leonardo-fonseca.pdf"&gt;
     &lt;img src="https://img.shields.io/badge/📄%20Download%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" /&gt;
   &lt;/a&gt;
-  &lt;a href="https://github.com/cody007cyberdev-blip/cv-leonardo-fonseca.md"&gt;
-    &lt;img src="https://img.shields.io/badge/📝%20View%20CV-Markdown-blue?style=for-the-badge&logo=markdown&logoColor=white" alt="View CV Markdown" /&gt;
-  &lt;/a&gt;
 &lt;/p&gt;
-
-&gt; 🎯 **Nota:** Substitui os links acima pelos caminhos reais do teu CV no repositório (ex: `cv.pdf`, `CV.md`, `resume.pdf`, etc.)
 
 ---
 
